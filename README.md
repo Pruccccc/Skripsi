@@ -11,7 +11,7 @@
 ## 👨‍🎓 Identitas Pengembang
 * **Nama Lengkap:** Rofi Fitriyani
 * **NIM:** 221410067
-* **Dosen Pembimbing:** Tri Ferga Prasetyo, S.T., M.Kom.
+* **Dosen Pembimbing:** Tri Ferga Prasetyo, S.T., M.Kom. dan Tantri Wahyuni, S.T., M.T.
 
 ---
 
